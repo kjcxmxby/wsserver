@@ -1,0 +1,8 @@
+package msg
+
+var (
+	ID_LOGIN_REQ uint32 = 10000
+	ID_LOGIN_RSP uint32 = 10001
+
+	ID_LESSION_STATUS_UPDATE_BROADCAST uint32 = 20000
+)

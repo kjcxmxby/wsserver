@@ -1,0 +1,9 @@
+{
+	"WSAddr":"0.0.0.0:3000",
+	"MaxConnNum"      : 10000,
+	"PendingWriteNum" : 10000,
+	"MaxMsgLen"       :1024,
+	"HTTPTimeout"   :10,
+	"LogLvl":7,
+	"LogPath":"./log/server.log"
+}
